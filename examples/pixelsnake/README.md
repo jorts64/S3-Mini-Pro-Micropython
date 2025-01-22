@@ -1,5 +1,3 @@
-source: [https://github.com/CsErik2001/Lolin-S3-Mini-Pro/tree/main/pixelsnake](https://github.com/CsErik2001/Lolin-S3-Mini-Pro/tree/main/pixelsnake)
-
 # PixelSnake
 
 This project implements a classic Snake game on an ESP32 microcontroller with an ST7789 display. The game features RGB LED effects, game pause functionality, and a game over screen with score display. The game is controlled using three buttons for direction and game control.
