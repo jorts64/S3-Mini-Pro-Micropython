@@ -43,7 +43,6 @@
 
 ![](s3_mini_pro_v1.0.0_5_16x9.png)
 
-doc: https://www.wemos.cc/en/latest/s3/s3_mini_pro.html
 
 | Constant  | Pin  |
 |-----------|------|
@@ -76,6 +75,9 @@ doc: https://www.wemos.cc/en/latest/s3/s3_mini_pro.html
 | BUTTON48  | 48   |
 
 
-
+| Device       | I2C address  |
+|--------------|--------------|
+|              |              |
+| QMI8658C IMU | 0x6B         |
 
 
