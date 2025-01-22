@@ -1,7 +1,3 @@
-source: [https://github.com/CsErik2001/Lolin-S3-Mini-Pro/tree/main/espnow](https://github.com/CsErik2001/Lolin-S3-Mini-Pro/tree/main/espnow)
-
-added getMAC.py in order to get 6 hex MAC. Replace pair MAC in the format b'\xf0\xf5\xbd\x76\x1e\xcc'   
-
 # ESP-NOW Project Demo
 
 ## Introduction:
@@ -29,3 +25,9 @@ print("MAC address in byte format:", mac_address)
 
 ## Usage of the code:
 There are three buttons on the Lolin S3 Mini Pro board. When you press a button, the corresponding action will be displayed on the other board.
+
+
+
+
+
+
