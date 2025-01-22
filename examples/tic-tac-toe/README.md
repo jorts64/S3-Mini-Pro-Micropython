@@ -1,4 +1,4 @@
-Changed buttons description according to behaviour
+Changed buttons description according to actual behaviour
 
 source: [https://github.com/CsErik2001/Lolin-S3-Mini-Pro/tree/main/tic-tac-toe](https://github.com/CsErik2001/Lolin-S3-Mini-Pro/tree/main/tic-tac-toe)
 
