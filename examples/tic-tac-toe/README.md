@@ -24,9 +24,9 @@ This project implements a classic Tic-Tac-Toe game on an ESP32 microcontroller w
 
 ## Game Controls
 
-- **Button 1 (Left)**: Move the cursor to the right
-- **Button 2 (Down)**: Move the cursor downward
-- **Button 3 (Select / Restart)**: Place the current player's move, or restart the game after a win or draw
+- **Button 1 (Right)**: Move the cursor downward
+- **Button 2 (Select / Restart)**: Place the current player's move, or restart the game after a win or draw
+- **Button 3 (Down)**: Move the cursor to the right
 
 ## How to Start
 
