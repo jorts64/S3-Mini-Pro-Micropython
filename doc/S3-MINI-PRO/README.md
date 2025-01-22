@@ -24,7 +24,7 @@
 
 * [Schematic V1.0.0](sch_s3_mini_pro_v1.0.0.pdf)
 * [Dimension V1.0.0](dim_s3_mini_pro_v1.0.0.pdf)
-* [ESP32-S3 Datasheet](https://www.espressif.com/sites/default/files/documentation/esp32-s3_datasheet_en.pdf)
+* [ESP32-S3 Datasheet](esp32-s3_datasheet_en.pdf)
 
 
 ## Technical specs
