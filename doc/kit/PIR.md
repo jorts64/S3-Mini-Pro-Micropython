@@ -7,12 +7,12 @@ Passive infrared sensor shield.
 
 # Features
 
-* Configurable IO (Default: D3/GPIO0)
+* Configurable IO (Default: D3/IO13)
 * Φ2mm mounting holes
 
 # Pins
 
-
+IO13
 
 # Documents
 
