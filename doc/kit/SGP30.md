@@ -13,7 +13,7 @@
 
 ## Pins
 
-I2C bus. address
+I2C bus. address 0x58
 
 
 ## Documents
