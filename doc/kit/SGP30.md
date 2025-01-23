@@ -23,4 +23,4 @@ I2C bus. address 0x58
 
 ## Library
 
-
+[uSGP30.py](https://github.com/jorts64/S3-Mini-Pro-Micropython/blob/main/lib/uSGP30.py) Original source [https://github.com/strumberr/SGP30-ESP32/tree/main](https://github.com/strumberr/SGP30-ESP32/tree/main)
