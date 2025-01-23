@@ -23,6 +23,6 @@ I2C bus, address 0x45
 
 ## Library
 
-
+[sht30.py](https://github.com/jorts64/S3-Mini-Pro-Micropython/blob/main/lib/sht30.py), original source [https://github.com/rsc1975/micropython-sht30](https://github.com/rsc1975/micropython-sht30)
 
 
