@@ -1,7 +1,7 @@
 # Relay Shield
 
 ![](files/relay_v2.0.0_1_16x16.jpg)
-![](files/d1_shields/relay_v2.0.0_2_16x16.jpg)
+![](files/relay_v2.0.0_2_16x16.jpg)
 
 Simple relay shield.
 
