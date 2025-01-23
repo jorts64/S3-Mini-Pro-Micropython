@@ -16,3 +16,7 @@ I2C_SCL = const(11)
 PIN_PIR = const(13)
 PIR = Pin(PIN_PIR, Pin.IN, Pin.PULL_UP)
 
+# RELAY
+PIN_RELAY = const(41)
+RELAY = Pin(PIN_RELAY, Pin.OUT, 0)
+
